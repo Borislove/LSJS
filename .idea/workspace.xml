@@ -37,8 +37,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.dowhile.js">
+  <component name="RunManager" selected="Node.js.for.js">
     <configuration name="dowhile.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dowhile.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="for.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/for.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="while.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="while.js" working-dir="$PROJECT_DIR$">
@@ -46,6 +49,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.for.js" />
         <item itemvalue="Node.js.dowhile.js" />
         <item itemvalue="Node.js.while.js" />
       </list>
