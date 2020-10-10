@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f915acf1-47c1-4bf2-be09-c6714a2c7d9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ifHM8Wd5TZG8J7UAH8iKmGG62H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="while.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="while.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.while.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f915acf1-47c1-4bf2-be09-c6714a2c7d9a" name="Default Changelist" comment="" />
+      <created>1602291675709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602291675709</updated>
+      <workItem from="1602291676742" duration="822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="404" key="#Notifications" timestamp="1602292493999">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="714" y="404" key="#Notifications/0.0.1920.1160@0.0.1920.1160" timestamp="1602292493999" />
+    <state x="739" y="347" key="FileChooserDialogImpl" timestamp="1602291821117">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="739" y="347" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1602291821117" />
+    <state x="784" y="482" key="Github.CreateGistDialog" timestamp="1602292462391">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="784" y="482" key="Github.CreateGistDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602292462391" />
+    <state x="842" y="487" key="Github.ShareDialog" timestamp="1602292485271">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="842" y="487" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602292485271" />
+    <state width="949" height="189" key="GridCell.Tab.0.bottom" timestamp="1602292498434">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
+    <state width="949" height="189" key="GridCell.Tab.0.center" timestamp="1602292498434">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="189" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
+    <state width="949" height="189" key="GridCell.Tab.0.left" timestamp="1602292498434">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="189" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
+    <state width="949" height="189" key="GridCell.Tab.0.right" timestamp="1602292498434">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="949" height="189" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
+    <state x="461" y="225" key="SettingsEditor" timestamp="1602292448727">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1602292448727" />
+    <state x="760" y="266" key="svn.repositoryBrowser" timestamp="1602292194760">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="760" y="266" key="svn.repositoryBrowser/0.0.1920.1160@0.0.1920.1160" timestamp="1602292194760" />
+  </component>
+</project>
