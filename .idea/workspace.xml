@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f915acf1-47c1-4bf2-be09-c6714a2c7d9a" name="Default Changelist" comment="test test" />
+    <list default="true" id="f915acf1-47c1-4bf2-be09-c6714a2c7d9a" name="Default Changelist" comment="test test">
+      <change afterPath="$PROJECT_DIR$/dowhile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ifHM8Wd5TZG8J7UAH8iKmGG62H" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,12 +37,16 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.dowhile.js">
+    <configuration name="dowhile.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/dowhile.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="while.js" type="NodeJSConfigurationType" temporary="true" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="while.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.dowhile.js" />
         <item itemvalue="Node.js.while.js" />
       </list>
     </recent_temporary>
@@ -50,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602291675709</updated>
       <workItem from="1602291676742" duration="822000" />
-      <workItem from="1602292507719" duration="325000" />
+      <workItem from="1602292507719" duration="1371000" />
     </task>
     <task id="LOCAL-00001" summary="test test">
       <created>1602292645873</created>
@@ -59,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602292645873</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test test">
+      <created>1602292856073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602292856073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,30 +99,34 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="784" y="482" key="Github.CreateGistDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602292462391" />
-    <state x="842" y="487" key="Github.ShareDialog" timestamp="1602292485271">
+    <state x="842" y="487" key="Github.ShareDialog" timestamp="1602292930102">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="842" y="487" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602292485271" />
-    <state width="949" height="189" key="GridCell.Tab.0.bottom" timestamp="1602292498434">
+    <state x="842" y="487" key="Github.ShareDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1602292930102" />
+    <state width="740" height="212" key="GridCell.Tab.0.bottom" timestamp="1602294295537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="189" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
-    <state width="949" height="189" key="GridCell.Tab.0.center" timestamp="1602292498434">
+    <state width="740" height="212" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1602294295537" />
+    <state width="740" height="212" key="GridCell.Tab.0.center" timestamp="1602294295537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="189" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
-    <state width="949" height="189" key="GridCell.Tab.0.left" timestamp="1602292498434">
+    <state width="740" height="212" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1602294295537" />
+    <state width="740" height="212" key="GridCell.Tab.0.left" timestamp="1602294295537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="189" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
-    <state width="949" height="189" key="GridCell.Tab.0.right" timestamp="1602292498434">
+    <state width="740" height="212" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1602294295537" />
+    <state width="740" height="212" key="GridCell.Tab.0.right" timestamp="1602294295537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state width="949" height="189" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1602292498434" />
+    <state width="740" height="212" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1602294295537" />
     <state x="461" y="225" key="SettingsEditor" timestamp="1602292448727">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="461" y="225" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1602292448727" />
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2" timestamp="1602292869096">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="313" key="Vcs.Push.Dialog.v2/0.0.1920.1160@0.0.1920.1160" timestamp="1602292869096" />
     <state x="760" y="266" key="svn.repositoryBrowser" timestamp="1602292194760">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
