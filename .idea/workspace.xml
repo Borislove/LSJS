@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f915acf1-47c1-4bf2-be09-c6714a2c7d9a" name="Default Changelist" comment="" />
+    <list default="true" id="f915acf1-47c1-4bf2-be09-c6714a2c7d9a" name="Default Changelist" comment="test test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ifHM8Wd5TZG8J7UAH8iKmGG62H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,6 +24,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files/nodejs/node.exe" />
@@ -46,11 +50,24 @@
       <option name="presentableId" value="Default" />
       <updated>1602291675709</updated>
       <workItem from="1602291676742" duration="822000" />
+      <workItem from="1602292507719" duration="325000" />
     </task>
+    <task id="LOCAL-00001" summary="test test">
+      <created>1602292645873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602292645873</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="404" key="#Notifications" timestamp="1602292493999">
